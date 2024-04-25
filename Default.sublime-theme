@@ -1,0 +1,24 @@
+{
+  "variables":
+  {
+  },
+  "rules":
+  [
+    {
+      "class": "disclosure_button_control",
+      "layer0.texture": null,
+      "layer0.tint": "var(shape_tint)",
+      "layer0.opacity": "var(sidebar_button_opacity)",
+      "content_margin": [0, 8]
+    },
+    {
+      "class": "sidebar_tree",
+      "row_padding": [16, 3, 4, 3],
+      "indent": 12,
+      "indent_offset": 0,
+      "indent_top_level": false,
+      "dark_content": false,
+      "spacer_rows": true
+    },
+  ]
+}
